@@ -1,0 +1,5 @@
+Name: fileutils
+Description: fileutils
+Version: 0.1.0
+Cflags: -I${pcfiledir}/c-utils/src
+Libs: -L${pcfiledir} -lfileutils
